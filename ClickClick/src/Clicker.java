@@ -28,7 +28,7 @@ public class Clicker implements ActionListener {
         button.setFocusable(false);
         button.setBorderPainted(false);
 
-        Image icon = Toolkit.getDefaultToolkit().getImage("C:\\Users\\KULDEEP\\Pictures\\Screenshots\\Fkey.png");
+        Image icon = Toolkit.getDefaultToolkit().getImage("-file path-");
         Border border = BorderFactory.createLineBorder(cyan, 1);
 
         clicks = new JLabel("START CLICKING");
